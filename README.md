@@ -21,3 +21,5 @@ To give output: ``` cout<<variable_name;```
 ## Explaination
 This is a basic program that has some variables that have values already initialized and some declared variables getting a value later on. We are taking input and printing that input.
 The line ```sizeof(variable_name)``` Tells us the size of the varible in bytes.
+## Output Screenshot
+![output screenshot](image.png)
