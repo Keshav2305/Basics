@@ -27,6 +27,6 @@ int main(){
     cin>>yourchar;
     cout<<"Write a string: ";
     cin>>yourstring;
-    cout<<"\n the integer value is "<<yourint<<", the percentage was "<<yourPerc <<", the character was"<<yourchar<<" and that string was"<<yourstring;    
+    cout<<"\n the integer value is "<<yourint<<", the percentage was "<<yourPerc <<", the character was "<<yourchar<<" and that string was "<<yourstring;    
     return 0;
 }
